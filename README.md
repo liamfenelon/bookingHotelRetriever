@@ -1,0 +1,2 @@
+# bookingHotelRetriever
+Retrieve all hotels
